@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #3A3845;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'ariel',inherit;
+  text-shadow: 1px 0 #6FB2D2;
+  font-size: 6rem;
+  color: #56BBF1;
+}
+h2 {
+  margin: 7px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 1px 0 #e56e0d;
+  font-size: 4rem;
+  color: #e4870d;
+}
+h6 {
+  margin: 5px;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 1px 0 #039153;
+  font-size: 3rem;
+  color: #05a543;
+}
+p {
+  font-size: 2rem;
+  color: #96ab0e;
+  font-family: 'Indie Flower', inherit;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
