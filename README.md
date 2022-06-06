@@ -1,3 +1,1 @@
-This is a simple dice game,there are two dices placed side by side,one is for player and other for bot.
-both the dices will be randomly throwed,the dice with highest number gets a point.
-this continues for 10 times and winner will be generated
+This is a simple dice game, there are two dice placed side by side, one is for the player and the other for the bot. both the dices will be randomly thrown,the dice with the highest number gets a point. this continues 10 times and the winner will be generated.
